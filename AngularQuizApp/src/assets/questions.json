@@ -1,0 +1,184 @@
+{
+    "questions": [{
+            "questionText": "Which built-in method returns the length of the string?",
+            "options": [{
+                    "text": "length()",
+                    "correct": true
+                },
+                {
+                    "text": "size()"
+                },
+                {
+                    "text": "index()"
+                },
+                {
+                    "text": "None of the above"
+                }
+            ],
+            "explanation": "length() method returns the length of the string."
+        },
+        {
+            "questionText": "Which of the following function of Array object adds and/or removes elements from an array?",
+            "options": [{
+                    "text": "sort()"
+                },
+                {
+                    "text": "unshift()"
+                },
+                {
+                    "text": " toSource()"
+                },
+                {
+                    "text": "splice()",
+                    "correct": true
+                }
+            ],
+            "explanation": "splice() -Adds and/or removes elements from an array."
+        },
+        {
+            "questionText": " Which built-in method combines the text of two strings and returns a new string?",
+            "options": [{
+                    "text": "append()"
+                },
+                {
+                    "text": "concat()",
+                    "correct": true
+                },
+                {
+                    "text": "attach()"
+                },
+                {
+                    "text": "None of the above."
+                }
+            ],
+            "explanation": "concat() method returns the character at the specified index."
+        },
+        {
+            "questionText": "Which of the following function of Number object returns the number's value?",
+            "options": [{
+                    "text": "toLocaleString()"
+                },
+                {
+                    "text": "valueOf()",
+                    "correct": true
+                },
+                {
+                    "text": "toString()"
+                },
+                {
+                    "text": "toPrecision()"
+                }
+            ],
+            "explanation": "valueOf() − Returns the number's value"
+        },
+        {
+            "questionText": "Which of the following function of String object creates a string to be displayed as bold as if it were in a <b> tag?",
+            "options": [{
+                    "text": "bold()",
+                    "correct": true
+                },
+                {
+                    "text": "blink()"
+                },
+                {
+                    "text": "big()"
+                },
+                {
+                    "text": "anchor()"
+                }
+            ],
+            "explanation": "bold() -Creates a string to be displayed as bold as if it were in a <b> tag."
+        },
+        {
+            "questionText": "Which is NOT an access modifier?",
+            "options": [{
+                    "text": "private"
+                },
+                {
+                    "text": "protected"
+                },
+                {
+                    "text": "public"
+                },
+                {
+                    "text": "async",
+                    "correct": true
+                }
+            ],
+            "explanation": "async is not used as an access modifier type in TypeScript"
+        },
+        {
+            "questionText": "Which of the following is an advantage of using JavaScript?",
+            "options": [{
+                    "text": "Less server interaction"
+                },
+                {
+                    "text": "Immediate feedback to the visitors"
+                },
+                {
+                    "text": "Increased interactivity"
+                },
+                {
+                    "text": " All of the above.",
+                    "correct": true
+                }
+            ],
+            "explanation": "Advantages."
+        },
+        {
+            "questionText": "Which of the following will write the message “Hello DataFlair!” in an alert box?",
+            "options": [{
+                    "text": "alert(“Hello DataFlair!”);",
+                    "correct": true
+                },
+                {
+                    "text": " alertBox(“Hello DataFlair!”);"
+                },
+                {
+                    "text": "msgAlert(“Hello DataFlair!”);"
+                },
+                {
+                    "text": "alert(Hello DataFlair!);"
+                }
+            ],
+            "explanation": "Syntax for Alert-alert(msg)"
+        },
+        {
+            "questionText": "How is a property accessible within a class?",
+            "options": [{
+                    "text": "Using this.propertyName",
+                    "correct": true
+                },
+                {
+                    "text": "Accessors"
+                },
+                {
+                    "text": "Destructuring"
+                },
+                {
+                    "text": "Arrow function"
+                }
+            ],
+            "explanation": "this.propertyName is the way to access a specific property within a class"
+        },
+        {
+            "questionText": "Which JavaScript label catches all the values, except for the ones specified?",
+            "options": [{
+                    "text": "default",
+                    "correct": true
+                },
+                {
+                    "text": "catch"
+                },
+                {
+                    "text": "try"
+                },
+                {
+                    "text": "label"
+                }
+            ],
+            "explanation": "default-catches all the values"
+        }
+        
+    ]
+}
